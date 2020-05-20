@@ -269,3 +269,9 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/linux,python,pycharm,windows,sublimetext
+
+# GitToolbox plugin files
+/.idea/git_toolbox_prj.xml
+
+# venv stuff
+/venv
