@@ -270,6 +270,9 @@ $RECYCLE.BIN/
 
 # End of https://www.gitignore.io/api/linux,python,pycharm,windows,sublimetext
 
+# All of .idea
+/.idea
+
 # GitToolbox plugin files
 /.idea/git_toolbox_prj.xml
 
